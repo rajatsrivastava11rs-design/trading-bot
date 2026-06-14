@@ -5,3 +5,4 @@ pyotp
 schedule
 requests
 logzero
+websocket-client
