@@ -1,0 +1,6 @@
+flask
+anthropic
+SmartApi-python
+pyotp
+schedule
+requests
