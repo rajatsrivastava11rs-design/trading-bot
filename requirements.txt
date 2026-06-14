@@ -4,3 +4,4 @@ SmartApi-python
 pyotp
 schedule
 requests
+logzero
